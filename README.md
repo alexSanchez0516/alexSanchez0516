@@ -7,3 +7,4 @@ You can follow me in the next sites/platforms where I constantly publish new con
 
 - 👍 [Instagram](https://www.instagram.com/alexsancheezz/)
 - 💼 [My personal Linkedin](https://www.linkedin.com/in/alexander-sanchez-423260184/)
+- 📝 [My blog](https://tucodigofavorito.com)
