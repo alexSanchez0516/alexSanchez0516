@@ -1,4 +1,4 @@
-### console.log('Hello World!! 👋') 👋
+### echo ('Hello World!! 👋'); 👋
 
 Software engineer and creator of tucodigofavorito.com, a personal project dedicated to help other developers to increase their technical skills in web design, web development, problems solving, and more. My main programming languages/platforms are: Python, PHP and Java.
 
