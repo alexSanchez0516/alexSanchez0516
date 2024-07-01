@@ -5,6 +5,4 @@ Developer and creator of tucodigofavorito.com, a personal project dedicated to h
 
 You can follow me in the next sites/platforms where I constantly publish new content 😊
 
-- 👍 [Instagram](https://www.instagram.com/alexsancheezz/)
 - 💼 [My personal Linkedin](https://www.linkedin.com/in/alexander-sanchez-423260184/)
-- 📝 [My blog](https://tucodigofavorito.com)
