@@ -5,4 +5,4 @@ Developer and creator of tucodigofavorito.com, a personal project dedicated to h
 
 You can follow me in the next sites/platforms where I constantly publish new content 😊
 
-- 💼 [My personal Linkedin](https://www.linkedin.com/in/alexander-sanchez-423260184/)
+- 💼 [My personal Linkedin](https://www.linkedin.com/in/alexander-sanchez-villegas-sv/)
